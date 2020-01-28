@@ -1,4 +1,4 @@
-![picture](https://bitbucket.org/zhangNemo/trading/raw/ee9654d011175beff2dc644dd0229bd1e68f2bfa/public/img/logo-white-trans.png)
+![picture](https://github.com/stachschwarz/3commas-bot/blob/master/public/img/logo-white-trans.png?raw=trues)
 
 ## About BotPump
 
